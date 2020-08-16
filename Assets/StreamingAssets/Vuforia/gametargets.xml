@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="GPS-reciever-module" size="0.150000 0.131504" />
+    <ImageTarget name="peltier" size="0.150000 0.150000" />
+    <ImageTarget name="Alcohol_sensor" size="0.150000 0.112500" />
+    <ImageTarget name="SN-TTP223-TouchSensor" size="0.150000 0.150000" />
+    <ImageTarget name="dht22-temprature-sensor" size="0.150000 0.112500" />
+    <ImageTarget name="ldr-light-sensor" size="0.150000 0.150000" />
+    <ImageTarget name="motor-driver" size="0.150000 0.167785" />
+    <ImageTarget name="lcd" size="0.150000 0.100000" />
+    <ImageTarget name="air-quality-sensor-module" size="0.150000 0.150000" />
+    <ImageTarget name="Arduino-Mega-2560-Pinout" size="0.150000 0.072873" />
+    <ImageTarget name="GT521Fxx-Fingerprint-module-9" size="0.150000 0.103939" />
+    <ImageTarget name="Gyroscope-Sensor" size="0.150000 0.093750" />
+    <ImageTarget name="shakti-IITM-SCL" size="0.150000 0.157239" />
+    <ImageTarget name="timerICU-NE555" size="0.150000 0.119704" />
+    <ImageTarget name="nodeMCU" size="0.150000 0.084375" />
+    <ImageTarget name="raspberryPi3" size="0.150000 0.096500" />
+    <ImageTarget name="Servo-Motor" size="0.150000 0.096000" />
+    <ImageTarget name="sound-sensor" size="0.150000 0.150000" />
+    <ImageTarget name="ultrasonic-sensor" size="0.150000 0.150000" />
+    <ImageTarget name="IRsensor" size="0.150000 0.082617" />
+  </Tracking>
+</QCARConfig>
